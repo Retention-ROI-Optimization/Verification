@@ -63,3 +63,5 @@ artifacts/results/**/*.npz
 artifacts/results/**/*.feather
 artifacts/results/**/*.xlsx
 artifacts/results/**/*.log
+# external raw data
+data/external/*.zip
